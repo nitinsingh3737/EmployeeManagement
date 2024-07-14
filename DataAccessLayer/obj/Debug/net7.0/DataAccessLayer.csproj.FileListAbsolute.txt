@@ -1,0 +1,17 @@
+D:\Projects\EmployeeManagement\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\Projects\EmployeeManagement\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+D:\Projects\EmployeeManagement\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\Projects\EmployeeManagement\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\Projects\EmployeeManagement\DataAccessLayer\bin\Debug\net7.0\DataTransferObject.dll
+D:\Projects\EmployeeManagement\DataAccessLayer\bin\Debug\net7.0\DataTransferObject.pdb
+D:\Projects\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Projects\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Projects\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\Projects\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAcce.E67BD773.Up2Date
+D:\Projects\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\Projects\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\Projects\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\Projects\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+D:\Projects\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

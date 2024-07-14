@@ -1,0 +1,17 @@
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\bin\Debug\net7.0\BusinessLogicsLayer.deps.json
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\bin\Debug\net7.0\BusinessLogicsLayer.dll
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\bin\Debug\net7.0\BusinessLogicsLayer.pdb
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\bin\Debug\net7.0\DataTransferObject.dll
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\bin\Debug\net7.0\DataTransferObject.pdb
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\obj\Debug\net7.0\BusinessLogicsLayer.csproj.AssemblyReference.cache
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\obj\Debug\net7.0\BusinessLogicsLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\obj\Debug\net7.0\BusinessLogicsLayer.AssemblyInfoInputs.cache
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\obj\Debug\net7.0\BusinessLogicsLayer.AssemblyInfo.cs
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\obj\Debug\net7.0\BusinessLogicsLayer.csproj.CoreCompileInputs.cache
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\obj\Debug\net7.0\Business.45ED2224.Up2Date
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\obj\Debug\net7.0\BusinessLogicsLayer.dll
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\obj\Debug\net7.0\refint\BusinessLogicsLayer.dll
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\obj\Debug\net7.0\BusinessLogicsLayer.pdb
+D:\Projects\EmployeeManagement\BusinessLogicsLayer\obj\Debug\net7.0\ref\BusinessLogicsLayer.dll
